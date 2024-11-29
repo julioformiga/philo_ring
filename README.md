@@ -2,6 +2,10 @@
 
 A LED visualization tool for the 42 School's Philosophers project that brings the dining philosophers problem to life through a NeoPixel LED strip.
 
+
+https://github.com/user-attachments/assets/59e17719-c11a-4ed4-b405-5f9b523c0fa7
+
+
 ## Overview
 
 NeoRing provides a visual representation of the dining philosophers problem by connecting to the Philosophers project output. Each philosopher is represented by an LED on the strip, with different colors indicating their current state.
