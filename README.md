@@ -1,4 +1,4 @@
-# NeoRing - 42 Philosophers Visualizer
+# PhiloRing - 42 Philosophers Visualizer
 
 A LED visualization tool for the 42 School's Philosophers project that brings the dining philosophers problem to life through a NeoPixel LED strip.
 
@@ -31,7 +31,7 @@ Each LED represents a philosopher with the following color codes:
 
 1. Clone this repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/julioformiga/philo_ring
 ```
 
 2. Install the required Python package:
